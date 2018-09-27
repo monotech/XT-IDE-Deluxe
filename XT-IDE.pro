@@ -1,4 +1,4 @@
-update=3/05/2018 1:17:29 AM
+update=23/09/2018 11:49:36 PM
 version=1
 last_client=kicad
 [common]
@@ -41,14 +41,16 @@ version=1
 NetIExt=net
 [cvpcb/libraries]
 EquName1=devcms
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [eeschema]
 version=1
-LibDir=C:/Users/Andrew/Desktop/System CD Updates/data/N8VEM-KiCAD
-[eeschema/libraries]
-LibName1=power
-LibName2=device
-LibName3=transistors
-LibName4=conn
-LibName5=74xx
-LibName6=C:/Program Files/KiCad/share/kicad/library/switches
-LibName7=D:/User Folders/Documents/KiCad Modules/CustomLib
+LibDir=

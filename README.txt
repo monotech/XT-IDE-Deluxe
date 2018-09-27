@@ -1,4 +1,4 @@
-Monotech XT-IDE rev 5 ReadMe
+Monotech XT-IDE rev 5.1 ReadMe
 ----------------------------
 
 8-bit ISA IDE interface + Boot ROM (two separate functions that can be used individually).
@@ -14,3 +14,13 @@ https://github.com/glitchwrks/xt_ide
 
 XT-IDE Universal BIOS
 https://code.google.com/archive/p/xtideuniversalbios/
+
+Changelog:
+
+rev 5.1:
+Slightly different PCB shape so switches no longer protruded past PCB edge, getting in the way when pushing the card into a tight slot.
+Some silkscreen documentation clarifying.
+Changed capacitor hole spacing to much more common 5mm.
+
+rev 5:
+Initial release

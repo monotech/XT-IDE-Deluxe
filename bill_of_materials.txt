@@ -1,4 +1,4 @@
-Monotech XT-IDE rev 5 Bill of Materials
+Monotech XT-IDE rev 5/5.1 Bill of Materials
 ---------------------------------------
 Ref(s)		Value
 -------------------------------------------
@@ -9,22 +9,22 @@ U5		74HCT32
 U7		74HCT138
 U8, U10		74HCT688
 U9		AT28C64B or AT28C256 (EEPROM)
-SW1		6-position DIP Switch (Horizontal)
-SW2		4-position DIP Switch (Horizontal)
+SW1		6-position DIP Switch (Horizontal, 2.54mm)
+SW2		4-position DIP Switch (Horizontal, 2.54mm)
 SW3		DPDT Slide Switch, right angle (CnK OS202011MA0QS1)
 SW4		DPDT Slide Switch, vertical, 6-pin thin DIP type (MSS-22D18G2)
 SW5, SW6	SPDT Slide Switch, right angle (CnK OS102011MA1QN1)
-RP1, RP2	10K x 7 SIP Bussed Resistor Network
-R1, R2		1K Resistor 1/4W
-R3, R4		10K Resistor 1/4W
-D1		5mm LED (for IDE Activity Indicator)
+RP1, RP2	10K x 7 SIP-8 Bussed Resistor Network/Array
+R1, R2		1K Resistor
+R3, R4		10K Resistor
+D1		3mm or 5mm LED
 J1		2x20 header, right angle, shrouded
 J3		1x2 header, right angle
 J4		1x2 header
 J5		2x5 header
-C1-C11		0.01 - 0.1 uF Ceramic Capacitor
-C12		47 - 100uF, 6.3 - 25V, Electrolytic Capacitor
-SOCKET		28-pin wide IC Socket (for EEPROM)
+C1-C11		10 - 100nF Ceramic Capacitor
+C12		47 - 100uF, 6.3V or higher Electrolytic Capacitor
+SOCKET		28-pin IC Socket (wide type) (for EEPROM)
 BRACKET		Keystone 9202 ISA Bracket
 SCREWS		4-40 x 1/4" Machine Screw (2 required)
 SHUNTS		0.1" Jumper Shunts (2 required)
@@ -33,7 +33,7 @@ Optional parts for XT Slot-8 Support:
 -------------------------------------
 J2		1x2 header
 U12		74LS33 (SOIC-14)
-C13		0.01 - 0.1uF Ceramic Capacitor (0805 SMD)
+C13		10 - 100nF Ceramic Capacitor (0805 SMD)
 R5, R6		10K Resistor (0805 SMD)
 
 Note: All 7400 series logic ICs can be substituted for LS, ALS, ACT, or HCT equivalents.
