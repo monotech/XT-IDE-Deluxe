@@ -1,4 +1,4 @@
-Monotech XT-IDE rev 5/5.1 Bill of Materials
+Monotech XT-IDE rev 5/5.1/5.2 Bill of Materials
 ---------------------------------------
 Ref(s)		Value
 -------------------------------------------
