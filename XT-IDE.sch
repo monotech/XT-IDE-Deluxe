@@ -983,7 +983,7 @@ U 1 1 5AE2E031
 P 1250 9150
 F 0 "SW2" H 1500 9400 60  0000 C CNN
 F 1 "ROM Address" V 1500 9150 60  0001 C CNN
-F 2 "Buttons_Switches_THT:SW_DIP_x4_W7.62mm_Slide_LowProfile" H 1250 9150 60  0001 C CNN
+F 2 "Buttons_Switches_THT:SW_DIP_x4_W7.62mm_Slide" H 1250 9150 60  0001 C CNN
 F 3 "" H 1250 9150 60  0001 C CNN
 	1    1250 9150
 	1    0    0    -1  
@@ -1016,7 +1016,7 @@ U 1 1 5AE31C4D
 P 1250 5300
 F 0 "SW1" H 1500 5650 60  0000 C CNN
 F 1 "IDE Address" V 1600 5300 60  0001 C CNN
-F 2 "Buttons_Switches_THT:SW_DIP_x6_W7.62mm_Slide_LowProfile" H 1250 5300 60  0001 C CNN
+F 2 "Buttons_Switches_THT:SW_DIP_x6_W7.62mm_Slide" H 1250 5300 60  0001 C CNN
 F 3 "" H 1250 5300 60  0001 C CNN
 	1    1250 5300
 	1    0    0    -1  
