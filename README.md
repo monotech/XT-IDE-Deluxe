@@ -1,4 +1,4 @@
-Monotech XT-IDE rev 5.2 ReadMe
+Monotech XT-IDE rev 5.3 ReadMe
 ----
 
 Bootable 8-bit ISA IDE interface
@@ -15,6 +15,9 @@ XT-IDE Universal BIOS
 https://code.google.com/archive/p/xtideuniversalbios/
 
 Changelog:
+
+rev 5.3:
+Re-design PCB layout. Schematic unchanged. Improved routing.
 
 rev 5.2:
 Re-design PCB layout. Schematic unchanged.
