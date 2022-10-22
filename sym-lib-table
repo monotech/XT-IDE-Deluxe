@@ -1,2 +1,3 @@
 (sym_lib_table
+  (lib (name "XT-IDE-Deluxe-rescue")(type "Legacy")(uri "${KIPRJMOD}/XT-IDE Deluxe-rescue.lib")(options "")(descr ""))
 )
